@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Wojciech](https://scholar.google.com/citations?user=2c5lMs4AAAAJ) and I'm a Research Engineer @ (DeepMind)[https://www.deepmind.com/]. 
+I'm [Wojciech](https://scholar.google.com/citations?user=2c5lMs4AAAAJ) and I'm a Research Engineer @ [DeepMind](https://www.deepmind.com/). 
 
 <!--
 **1o0ko/1o0ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
